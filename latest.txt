@@ -1,2 +1,2 @@
-Version=3.0.0.0
+Version=2.0.0.0
 URL=https://www.dropbox.com/scl/fi/opay6vux4jj0vu2nu2mw3/net9.0-windows-V1.0.0.zip?rlkey=qg0fc9nzyhomu4uioulb1n5pd&dl=1
