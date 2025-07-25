@@ -1,2 +1,2 @@
-Version=V1.0.1
+Version=V1.0.0
 URL=https://uc11de7a573570fa8dd048dd1057.dl.dropboxusercontent.com/cd/0/get/CuLqUUiElTVlH6l6dys6H6ijIpGUuzMU7v6tGcqtUIX2EXTnvEr0v9Ec-8CYVne6WZtbqYOTZV91sp6EhUkjpSau0-8stZ1iTr4r2xSCP4IaNfqlMeoD1MLjyR1uaFWLB2M0ojtTJ2rCdeZaiU2uUPn6XgyweehfKiYZy7F4tq_WTQ/file?_download_id=99376222256426924842513799730461790332703193511528580422336186684&_log_download_success=1#
