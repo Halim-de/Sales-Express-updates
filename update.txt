@@ -1,2 +1,2 @@
-Version=V1.4.0
+Version=V1.5.0
 URL=https://www.dropbox.com/scl/fi/9171qtxrsurgtllm9thw7/update_V1.5.0.zip?rlkey=ctwyfy4f201orl0x0bz8ep03d&dl=1#
