@@ -1,5 +1,5 @@
-Version=V1.5.1
-URL=https://www.dropbox.com/scl/fi/fq4jmjbdb6ztyrqhl72w7/net9.0-windows-V1.5.1.zip?rlkey=1ni7bt985dgse6otw50fdgksl&dl=1#
+Version=V1.5.2
+URL=https://www.dropbox.com/scl/fi/2z97l97m9gj0655byiyiv/net9.0-windows-V1.5.2.zip?rlkey=4dhy4lfvyfnbzfo78twzuq61q&dl=1#
 
 
 
